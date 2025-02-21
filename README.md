@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 2. Modify the `image_folder` variable in the script to point to the folder containing your images, and adjust the `output_pdf` to specify the name of the resulting PDF file.
 
-**_NOTE_** : **DONT FORGET TO CHANGE THE NAME OF VARIABLES**
+**_NOTE_** : **DONT FORGET TO CHANGE THE CONTENTS OF VARIABLES**
 
 ```python
 image_folder = "path/to/your/folder"  # Folder containing your PNG images
